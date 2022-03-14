@@ -1,0 +1,4 @@
+/home/pi/Freertos/CMakeFiles/rebuild_cache.dir
+/home/pi/Freertos/CMakeFiles/posix_demo.dir
+/home/pi/Freertos/CMakeFiles/edit_cache.dir
+/home/pi/Freertos/CMakeFiles/freertos.dir
